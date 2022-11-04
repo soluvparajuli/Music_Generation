@@ -1,0 +1,40 @@
+
+body{
+    background: url("images/solidGreen.jpg");
+    font-weight: normal;
+}
+.loginbtn{
+    float:right;
+    margin-top: 20px;
+}
+.tulogo{
+    width: 12%;
+}
+.titleshowcase{
+    text-align: center;
+
+}
+.titleshowcase img{
+    width:50%;
+}
+.titleshowcase h1{
+    color:white;
+    font-weight: normal;
+}
+footer{
+    margin:80px 0 0 0;
+    text-align: center;
+    color:lightgray;
+  }
+p{
+    color: white;
+}
+.notshown{
+    display: none;
+}
+.loginform{
+    text-align:center;
+    width: 40%;
+    color: white;
+    margin: 0 auto;
+}
